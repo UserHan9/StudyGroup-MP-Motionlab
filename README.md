@@ -26,7 +26,7 @@ Dikembangkan oleh **Linus Torvalds** (pencipta Linux), Git membantu developer un
 - Membangun fitur baru lewat branch tanpa mengganggu kode utama  
 - Menggabungkan hasil kerja tim dengan mudah melalui merge  
 
-Git bukan sekadar alat, tapi **pondasi utama kolaborasi pengembang modern** 👨‍💻👩‍💻
+Git bukan sekadar alat, tapi **pondasi utama kolaborasi pengembang modern** 
 
 ---
 
